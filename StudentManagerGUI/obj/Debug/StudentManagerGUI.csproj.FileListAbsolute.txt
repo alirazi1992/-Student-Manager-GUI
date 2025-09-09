@@ -1,0 +1,13 @@
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\bin\Debug\StudentManagerGUI.exe.config
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\bin\Debug\StudentManagerGUI.exe
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\bin\Debug\StudentManagerGUI.pdb
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\obj\Debug\StudentManagerGUI.csproj.AssemblyReference.cache
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\obj\Debug\StudentManagerGUI.Properties.Resources.resources
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\obj\Debug\StudentManagerGUI.csproj.GenerateResource.cache
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\obj\Debug\StudentManagerGUI.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\obj\Debug\StudentM.7E3AD0AA.Up2Date
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\obj\Debug\StudentManagerGUI.exe
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\obj\Debug\StudentManagerGUI.pdb
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\obj\Debug\StudentManagerGUI.exe.config
+C:\Users\a.razi\source\repos\StudentManagerGUI\StudentManagerGUI\bin\Debug\System.Data.SQLite.xml
